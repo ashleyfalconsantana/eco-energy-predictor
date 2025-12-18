@@ -1,5 +1,5 @@
 # eco-energy-predictor
-My first personal Python + ML project! This is to help predict energy usage to reduce waste and save money. 
+A Python project that uses machine learning to forecast energy usage. The goal is to help identify patterns in consumption so efficiency can be improved and costs can be lowered.
 
 ## Introduction:
 *About this project.*
